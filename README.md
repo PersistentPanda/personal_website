@@ -5,3 +5,5 @@ danielnease.com.
 
 The website will include a bio, contact, and blog page.
 CSS and Javascript and not included as of yet.
+
+# this line is to practice making a change and committing that change to the repo
